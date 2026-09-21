@@ -1,18 +1,59 @@
 # CinderCore-Prologue
 The first embers of my journey into the world of coding, design, analysis, and building projects from the ground up.
-<h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">A Mechanical Engineering Student | Beginner developer</h3>
+# 👋 Hi, I'm Roshan
 
-- 🌱 I’m currently learning **C language and Blender Basics**
+I'm a Mechanical Engineering student and a beginner developer exploring coding, programming, design, analysis, and project development.
 
-- 📫 How to reach me **roshanvgopal123@gmail.com**
+I enjoy understanding how things work and diving deep into the topics I study. I'm currently building my programming foundation and learning how to turn ideas into projects.
 
-- ⚡ Fun fact **My humor is questionable, but my curiosity isn't. I live to dive deep into whatever I'm interested in.**
+## 🎓 Education
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ground_zir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ground_zir0" height="30" width="40" /></a>
-</p>
+**B.Tech in Mechanical Engineering**  
+Government Engineering College, Barton Hill, Kerala
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 💻 Technical Skills
+
+- Python — Basic
+- MySQL — Basic
+- Git & GitHub — Beginner
+- Pencil & Technical Sketching
+
+## 🎯 Areas of Interest
+
+- Mechanical Engineering
+- Programming & Software Development
+- Mechanical Design & Analysis
+- Technical Drawing & Schematics
+- Vehicle Design & Sketching
+- Game Development
+- Problem Solving
+
+## 🌱 Currently Learning
+
+- C
+- C++
+- Blender
+- Programming Fundamentals
+- Git & GitHub
+
+## 🚀 Future Goals
+
+- Build meaningful projects combining engineering and programming
+- Develop strong programming fundamentals
+- Become proficient in C and C++
+- Learn 3D modelling and CAD
+- Explore game development
+- Apply computational tools to Mechanical Engineering
+- Continue improving my design, analysis, and problem-solving skills
+
+## ⚡ Fun Fact
+
+My humor is questionable, but my curiosity isn't. I love diving deep into whatever I'm studying.
+
+I'm also passionate about pencil art, including portraits, scenery, vehicles, technical sketches, schematics, and blueprint-style drawings.
+
+## 🔗 Professional Links
+
+- **GitHub:** [CinderCore](https://github.com/CinderCore)
+- **Instagram:** [@ground_zir0](https://instagram.com/ground_zir0)
+- **LinkedIn:** [www.linkedin.com/in/roshan-venugopal-23832b355)
